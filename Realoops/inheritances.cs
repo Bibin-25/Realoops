@@ -27,8 +27,4 @@ namespace Realoops
             Console.WriteLine("Welcome");
         }
     }
-    public class demo
-    {
-        public int MyProperty { get; set; }
-    }
 }
